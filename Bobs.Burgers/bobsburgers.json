@@ -4,7 +4,7 @@
             {
                 "start": 0,
                 "end": 20000,
-		"cascade": false
+                "cascade": false
             }
         ],
         "tmdb://32726.4.21": [],
@@ -39,5 +39,6 @@
         ]
     },
     "clients": {},
-    "offsets": {}
+    "offsets": {},
+    "tags": {}
 }
