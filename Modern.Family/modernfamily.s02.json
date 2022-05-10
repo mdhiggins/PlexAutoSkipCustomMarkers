@@ -158,5 +158,6 @@
         ]
     },
     "clients": {},
-    "offsets": {}
+    "offsets": {},
+    "tags": {}
 }
